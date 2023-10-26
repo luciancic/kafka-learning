@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/luciancic/kafka-learning/issues"
   },
-  "homepage": "https://github.com/luciancic/kafka-learning#readme"
+  "homepage": "https://github.com/luciancic/kafka-learning#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
