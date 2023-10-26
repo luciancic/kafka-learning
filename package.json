@@ -1,0 +1,22 @@
+{
+  "name": "kafka-learning",
+  "version": "0.0.0",
+  "description": "Learning kafka with practice and experimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciancic/kafka-learning.git"
+  },
+  "keywords": [
+    "kafka"
+  ],
+  "author": "Lucian Condrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciancic/kafka-learning/issues"
+  },
+  "homepage": "https://github.com/luciancic/kafka-learning#readme"
+}
