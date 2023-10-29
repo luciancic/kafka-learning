@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/luciancic/kafka-learning#readme",
   "devDependencies": {
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "eslint": "^8.52.0"
   },
   "dependencies": {
     "kafkajs": "^2.2.4"
